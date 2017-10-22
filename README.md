@@ -1,6 +1,6 @@
-GeoLearn
+# GeoLearn
 
-Integrantes
+## Integrantes
 
 Angelica Dourado
 Flavio Vinicius
@@ -8,7 +8,7 @@ Bruno Arruda
 Magaywer Moreira
 Valdemir Lino
 
-Pre-requisites
+## Pre-requisites
 
 Wampserver 2.5
 phpMyAdmim 4.4
@@ -18,8 +18,8 @@ Apache/2.4.9 (Win64)
 PHP/5.5.12
 Bootstrap v3.3.7
 
-O que é?
+## O que é?
 Software de previsão de produtividade da canal com base em geotecnologias
 
-Licenses
+## Licenses
 GPL
